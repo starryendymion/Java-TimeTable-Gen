@@ -7,6 +7,9 @@ How to Open? :
 3) run command  : ```java -jar TimetableGenerator.jar```
 
 Contributions : <br>
+
+GROUP 1 
+
 22/11/EC/001 DIVYE JOSHI : Backend <br>
 22/11/EC/024 ANUSHTTHA SRIVASTAVA : Frontend <br>
 22/11/EC/053 VIKAS PUNIYA : Frontend <br>
